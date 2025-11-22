@@ -1,25 +1,28 @@
 ---
 permalink: /
-title: "A logbook on my work"
+title: "A logbook on my work in Electronics"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Hello and welcome. I am [Paguiel Nganji](https://github.com/paguielng), a student passionate about electronics, robotics, and aerospace, currently pursuing a degree in **Electrical Engineering and Industrial Computing**, and I specialize in automation, electronics, and embedded systems. 
+I am [Paguiel Nganji](https://github.com/paguielng), a student passionate about electronics, robotics, and aerospace, currently pursuing a degree in **Electrical Engineering and Industrial Computing**, and I specialize in automation, electronics, and embedded systems. This website is more than just a resume. It is a reflection of my journey and my ambition: to become an engineer. Here, you will find not only my academic background but, more importantly, the practical application of my knowledge through hands-on projects I build in my personal time.
 
- This website is more than just a resume. It is a reflection of my journey and my ambition: to become an engineer. Here, you will find not only my academic background but, more importantly, the practical application of my knowledge through hands-on projects I build in my personal time.
-
- You will find some of [my projects](https://github.com/paguielng) released, such as Rocket developement projects, Hardware gadgets and More !
+  You will find some of my projects on my [Github profile](https://github.com/paguielng), such as rocket development projects, hardware gadgets, and more. Each project is a step in my journey to master embedded systems and solve real-world engineering challenges.
 
 A data-driven personal website
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+I believe that the best way to learn is by doing. While my academic studies in Electrical Engineering and Industrial Computing provide me with a strong theoretical foundation, my personal projects are where I truly bring these concepts to life. This hands-on approach allows me to face real-world challenges, debug complex problems, and develop a deep, practical understanding of electronic systems. This portfolio is a living document of that process, showcasing not just the final result, but the journey of learning and iteration behind each creation.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+My passion extends beyond simple electronics; I am deeply fascinated by the intersection of hardware and software, especially in high-stakes environments like aerospace. I am driven by the challenge of building systems that are not only functional but also reliable and efficient. Whether it's designing a circuit board, writing firmware for a microcontroller, or developing control logic for a robot, I am committed to precision and quality. I see every line of code and every solder joint as a step toward building the robust technologies of the future. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/paguieng/Myportfolio.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://Myportfolio.github.io/talkmap.html).
 
-For those users that need more advanced functionality, the template also supports the following popular tools:
+To do this, I continuously explore tools and methods that are standard in the industry. I use some popular tools:
+- [C/C++](https://isocpp.org/) for performance-critical embedded applications.
+- [KiCad](https://www.kicad.org/) for schematizing
+- [Git/GitHub](https://github.com/paguielng/) for managing my projects
+- [Wokwi](https://wokwi.com/) for online ESP32 simulator
+- [MatLab](https://www.mathworks.com/products/matlab.html/) for computing simulations
 - [MathJax](https://www.mathjax.org/) for mathematical equations
 - [Mermaid](https://mermaid.js.org/) for diagraming
 - [Plotly](https://plotly.com/javascript/) for plotting
