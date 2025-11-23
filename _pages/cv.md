@@ -111,8 +111,8 @@ Skills
 
     /* LES MODIFICATIONS SONT ICI */
     .sub-skills li {
-        font-size: 0.9rem;
-        font-weight: 200;
+        font-size: 0.8rem;
+        font-weight: 300;
         margin-bottom: 0.15rem;  /* Espace vertical encore plus réduit */
         /* J'ai enlevé 'position: relative' et 'padding-left' qui n'étaient utiles que pour la puce */
     }
