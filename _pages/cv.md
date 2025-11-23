@@ -107,24 +107,25 @@ Skills
         padding-left: 45px;
     }
 
-    /* LES MODIFICATIONS SONT ICI */
     .sub-skills li {
-        font-size: 0.9rem;      /* Taille de police réduite */
+        font-size: 0.9rem;
         font-weight: 400;
-        margin-bottom: 0.3rem;  /* Espace vertical réduit */
+        margin-bottom: 0.3rem;
         position: relative;
         padding-left: 20px;
     }
 
+    /* LA MODIFICATION EST ICI */
     .sub-skills li::before {
         content: '○';
         position: absolute;
         left: 0;
-        top: 0;
+        top: 1px; /* Ajustement pour un meilleur alignement vertical */
         color: #555;
+        font-size: 0.8rem; /* Réduit la taille du caractère 'cercle' */
     }
 </style>
-    
+
 
 Publications
 ======
