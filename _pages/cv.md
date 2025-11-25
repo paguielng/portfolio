@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Bachelor of Science in Technology, Toulouse University, 2028 (expected)
-* Baccalaureate, Mathematics, Computer Science, and Physics–Chemistry, St.Sernin High School, 2025
+* Baccalaureate, Mathematics, Computer Science, and Physics–Chemistry, St. Sernin High School, 2025
 * Discovery internship in Aeronautics Engineering, ISAE SUPAERO, 2022
 * B.I.A. Aeronautics Initiation Certificate, Henri de Toulouse-Lautrec High School, 2022
 * P.S.C.1. Level 1 First Aid and Civic Assistance (PSC1), 2022
