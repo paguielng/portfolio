@@ -1,34 +1,78 @@
-/* Taille générale du texte */
+/* -----------------------------------------------------------
+   TYPOGRAPHIE GÉNÉRALE
+----------------------------------------------------------- */
 .page__content {
-  font-size: 0.9rem;
+  font-size: 0.9rem;           /* Taille globale réduite */
+  line-height: 1.55;           /* Lisibilité meilleure */
+  max-width: 750px;            /* Colonne plus étroite = plus pro */
+  margin: 0 auto;              /* Centrer le texte */
 }
 
-/* Titres plus petits */
+/* -----------------------------------------------------------
+   TITRES
+----------------------------------------------------------- */
 .page__content h1 {
-  font-size: 1.7rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  margin-top: 1.8rem;
+  margin-bottom: 1rem;
 }
+
 .page__content h2 {
-  font-size: 1.4rem;
+  font-size: 1.45rem;
+  font-weight: 600;
+  margin-top: 1.6rem;
+  margin-bottom: 0.8rem;
 }
+
 .page__content h3 {
   font-size: 1.2rem;
-}
-.page__content h4 {
-  font-size: 1.05rem;
+  font-weight: 600;
+  margin-top: 1.3rem;
+  margin-bottom: 0.5rem;
 }
 
-/* Paragraphes plus compacts */
-.page__content p {
+/* -----------------------------------------------------------
+   PARAGRAPHES & LISTES
+----------------------------------------------------------- */
+.page__content p,
+.page__content li {
+  font-size: 0.92rem;
   margin-bottom: 0.7rem;
 }
 
-/* Listes plus compactes */
-.page__content ul,
-.page__content ol {
-  font-size: 0.9rem;
+.page__content ul {
+  margin-left: 1.2rem;
 }
 
-.page__content {
-  font-size: 0.9rem;
+/* -----------------------------------------------------------
+   LIENS
+----------------------------------------------------------- */
+.page__content a {
+  color: #007acc;              /* Bleu pro */
+  text-decoration: none;
 }
 
+.page__content a:hover {
+  text-decoration: underline;
+}
+
+/* -----------------------------------------------------------
+   IMAGES
+----------------------------------------------------------- */
+.page__content img {
+  border-radius: 6px;
+  margin: 1.2rem 0;
+}
+
+/* -----------------------------------------------------------
+   CITATIONS (blockquote)
+----------------------------------------------------------- */
+.page__content blockquote {
+  font-size: 0.9rem;
+  padding: 0.8rem 1.2rem;
+  background: #fafafa;
+  border-left: 4px solid #007acc;
+  border-radius: 4px;
+  margin: 1.2rem 0;
+}
